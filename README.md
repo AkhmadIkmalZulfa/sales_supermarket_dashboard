@@ -2,7 +2,7 @@
 
 Dashboard interaktif ini dibuat menggunakan **Microsoft Power BI** untuk menganalisis performa penjualan supermarket berdasarkan data *Supermarket Sales (Kaggle)*.
 
-![Dashboard Preview](images/sales.jpg)
+![Dashboard Preview](images/sales_page-0001.jpg)
 
 ---
 
